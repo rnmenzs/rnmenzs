@@ -1,5 +1,5 @@
 ## Hello there! 
-Eu sou o Renan, sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei programando como Game Dev, porém há algum venho estudando outras áreas tentando cada vez mais me aperfeiçoar para evoluir na carreira de Dev. 
+Eu sou o Renan, sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei programando como Game Dev, porém há algum tempo venho estudando outras áreas tentando cada vez mais me aperfeiçoar para evoluir na carreira de Dev. 
 
 Tenho experiência:
 

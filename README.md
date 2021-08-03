@@ -10,3 +10,6 @@ Tenho experiência:
 - CSS
 - JS
 - PostgreSQL
+
+Agradeço sua atenção!!!
+Ass. Aspirante a Dev.

@@ -11,5 +11,6 @@ Tenho experiência:
 - JS
 - PostgreSQL
 
-Agradeço sua atenção!!!
+Agradeço sua atenção!
+
 Ass. Aspirante a Dev.

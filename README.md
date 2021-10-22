@@ -3,13 +3,13 @@ Eu sou o Renan, sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei
 
 Tenho experiência:
 
-- C# voltado a Unity Engine
-- C++
-- C++ voltado ao arduino
-- HTML5
-- CSS
-- JS
-- PostgreSQL
+- C# voltado a Unity Engine;
+- C++ voltado ao arduino;
+- HTML5;
+- CSS3;
+- JS;
+- node.js;
+- PostgreSQL.
 
 Agradeço sua atenção!
 

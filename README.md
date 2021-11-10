@@ -1,16 +1,29 @@
 ## Hello there! 
 Eu sou o Renan, sou estudante de Análise e Desenvolvimento de Sistemas. Iniciei programando como Game Dev, porém há algum tempo venho estudando outras áreas tentando cada vez mais me aperfeiçoar para evoluir na carreira de Dev. 
 
-Tenho experiência:
+<div>
+  <a href="https://github.com/RenanLMenezes">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=RENANLMENEZES&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENANLMENEZES&layout=compact&langs_count=7&theme=react" />
 
-- C# voltado a Unity Engine;
-- C++ voltado ao arduino;
-- HTML5;
-- CSS3;
-- JS;
-- node.js;
-- PostgreSQL.
 
-Agradeço sua atenção!
+</div>
+ <br>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cutt.ly/HTocIlH">
+  <img align="center" alt="Unity Engine" width="60" src="https://cutt.ly/6TonBYt">
+  
+ 
+    
+</div>
 
-Ass. Aspirante a Dev.
+  ![Snake animation](https://github.com/RenanLMenezes/RenanLMenezes/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=RenanLMenezes&repo=RenanLMenezes&theme=react)](https://github.com/RenanLMenezes/RenanLMenezes)
+

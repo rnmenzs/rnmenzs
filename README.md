@@ -20,6 +20,7 @@
     
 </div>
 <div>
+  
   ![Snake animation](https://github.com/RenanLMenezes/RenanLMenezes/blob/output/github-contribution-grid-snake.svg)
  
 </div>

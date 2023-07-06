@@ -24,9 +24,9 @@
 </div>
 <div>
   
-  ![Snake animation](https://github.com/RenanLMenezes/RenanLMenezes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rnmenzs/rnmenzs/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=RenanLMenezes&repo=RenanLMenezes&theme=react)](https://github.com/RenanLMenezes/RenanLMenezes)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rnmenzs&repo=rnmenzs&theme=react)](https://github.com/rnmenzs/rnmenzs)
 

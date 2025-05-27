@@ -25,20 +25,6 @@ Agradeço desde já a atenção dispensada.
 
 ---
 
-## 💼 Experiência Profissional
-
-### Agente de Registro  
-**Unica Menezes Assesoria, Administradora e Corretora de Seguros LTDA**  
-📍 Rua Thomaz Simon, Nº 40 (Sala 01 e 02), Vila Padre Bento, Itu – SP  
-📅 01/02/2019 – 01/08/2022  
-
-**Atividades:**  
-- Recepção e orientação de clientes (PF e PJ) para emissão de certificados digitais  
-- Validação, autenticação e registro de solicitações de emissão e revogação de certificados digitais  
-- Compartilhamento de conhecimentos adquiridos em cursos, palestras e conferências com colegas da área
-
----
-
 ### Instrutor de Programação  
 **SUPERGEEKS ITU - Instituto de Tecnologia LTDA**  
 📍 Rua Gerson Mendes, Nº 102 - Itu Novo Centro, Itu – SP  

@@ -1,7 +1,10 @@
 # Renan Leme Menezes  
 **Desenvolvedor Fullstack**
-📞 (11) 94177-5174  
+
+📞 (11) 94177-5174 
+
 📧 renanlmenezes2003@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/renan-leme-menezes-136760218/)
 
 ---

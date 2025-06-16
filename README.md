@@ -25,15 +25,15 @@ Agradeço desde já a atenção dispensada.
 
 ---
 
-### Instrutor de Programação  
-**SUPERGEEKS ITU - Instituto de Tecnologia LTDA**  
-📍 Rua Gerson Mendes, Nº 102 - Itu Novo Centro, Itu – SP  
-📅 25/08/2022 – 31/07/2023  
+### Desenvolvedor  
+**Baron Tech | Baron Tech Sistemas e Serviços LTDA**  
+📍 Rua Ires Leonor, 93, Bairro Parque Mandaqui, São Paulo – SP, 02420090  
+📅 01/08/2023 – 24/04/2024  
 
 **Atividades:**  
-- Elaboração de material didático  
-- Ministração de aulas  
-- Gerenciamento de turmas e atividades educacionais
+- Desenvolvimento e manutenção de módulos em sistema ERP utilizando PHP  
+- Correção de bugs e melhorias de funcionalidades existentes  
+- Integração de novos recursos ao sistema conforme demandas dos clientes
 
 ---
 
@@ -50,17 +50,18 @@ Agradeço desde já a atenção dispensada.
 
 ---
 
-### Desenvolvedor  
-**Baron Tech | Baron Tech Sistemas e Serviços LTDA**  
-📍 Rua Ires Leonor, 93, Bairro Parque Mandaqui, São Paulo – SP, 02420090  
-📅 01/08/2023 – 24/04/2024  
+### Instrutor de Programação  
+**SUPERGEEKS ITU - Instituto de Tecnologia LTDA**  
+📍 Rua Gerson Mendes, Nº 102 - Itu Novo Centro, Itu – SP  
+📅 25/08/2022 – 31/07/2023  
 
 **Atividades:**  
-- Desenvolvimento e manutenção de módulos em sistema ERP utilizando PHP  
-- Correção de bugs e melhorias de funcionalidades existentes  
-- Integração de novos recursos ao sistema conforme demandas dos clientes
+- Elaboração de material didático  
+- Ministração de aulas  
+- Gerenciamento de turmas e atividades educacionais
 
 ---
+
 
 ## 🛠️ Competências Técnicas
 

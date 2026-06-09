@@ -9,11 +9,9 @@
 
 ## 📌 Sobre
 
-Desenvolvedor fullstack com formação em Análise e Desenvolvimento de Sistemas e ~2 anos de experiência prática em produção (Node.js, TypeScript, React, PHP, MySQL/MongoDB). Atuo no desenvolvimento de plataformas SaaS multi-tenant, integrações REST/OAuth 2.0 e sistemas de billing.
+Desenvolvedor fullstack com ~2 anos em produção (Node.js, TypeScript, React, PHP, MySQL/MongoDB), atuando em SaaS multi-tenant, integrações REST/OAuth e sistemas de billing.
 
-Em transição estruturada para Cybersecurity: em junho/2026 inicio a Pós-graduação Lato Sensu em Offensive Cyber Security – Red Team Operations pela FIAP, expandindo expertise para a interseção entre desenvolvimento e segurança ofensiva (pentest, web hacking, OSINT, Python para Red Team, MITRE ATT&CK).
-
-Atuei também como instrutor de programação por 1 ano, base direta para comunicação técnica clara, mentoria e code review. Estou sempre estudando — atualmente foco em fundamentos de redes, sistemas operacionais, Linux e cibersegurança via DIO/Santander Bootcamps.
+Em transição estruturada para Cybersecurity: em junho/2026 inicio a Pós em Offensive Cyber Security – Red Team Operations pela FIAP, complementando a base dev com pentest, web hacking e OSINT.
 
 ---
 
@@ -40,6 +38,14 @@ Atuei também como instrutor de programação por 1 ano, base direta para comuni
 
 ---
 
+## 📜 Certificações
+
+**Cybersecurity** — Fundamentos de Pentest · Fundamentos de Cibersegurança · Princípios da Cibersegurança · Bootcamp Santander Cibersegurança (DIO)
+
+**Desenvolvimento** — REST com Node.js (Express + MySQL) (Alura) · HTTP por baixo dos panos (Alura) · Autenticação com JWT em Node/TS (DIO)
+
+---
+
 ## 🎓 Formação
 
 - **Pós-graduação Lato Sensu em Offensive Cyber Security – Red Team Operations** — FIAP (Jun 2026 – Abr 2027)
@@ -53,10 +59,4 @@ Atuei também como instrutor de programação por 1 ano, base direta para comuni
 
 **Cybersecurity em formação:** Pentest · OSINT · Redes · Linux · Burp Suite · MITRE ATT&CK · OWASP Top 10
 
----
 
-## 📜 Certificações Selecionadas
-
-**Cybersecurity** — Fundamentos de Pentest · Fundamentos de Cibersegurança · Princípios da Cibersegurança · Bootcamp Santander Cibersegurança (DIO)
-
-**Desenvolvimento** — REST com Node.js (Express + MySQL) (Alura) · HTTP por baixo dos panos (Alura) · Autenticação com JWT em Node/TS (DIO)

@@ -63,10 +63,10 @@ Em transição estruturada para Cybersecurity: em junho/2026 inicio a Pós em Of
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rnmenzs&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnmenzs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=AR_interior_design,mks-unity-challenge,Virtual-Planet-Sandwich-Test,AR-Ballon-Shooting&cache_seconds=14400" alt="Top Languages" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rnmenzs&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnmenzs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 
 
 

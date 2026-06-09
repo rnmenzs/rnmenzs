@@ -59,4 +59,14 @@ Em transição estruturada para Cybersecurity: em junho/2026 inicio a Pós em Of
 
 **Cybersecurity em formação:** Pentest · OSINT · Redes · Linux · Burp Suite · MITRE ATT&CK · OWASP Top 10
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rnmenzs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnmenzs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=AR_interior_design,mks-unity-challenge,Virtual-Planet-Sandwich-Test,AR-Ballon-Shooting" alt="Top Languages" />
+</div>
+
+
 

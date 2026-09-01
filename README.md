@@ -1,60 +1,60 @@
 # Renan Leme Menezes
-**Desenvolvedor Fullstack | Cybersecurity em formação (FIAP Pós Offensive)**
 
-📍 Itu, SP · 📧 renanlmenezes2003@gmail.com · 📞 (11) 94711-5174
-
-🔗 [LinkedIn](https://www.linkedin.com/in/renanlememenezes) 🔗 [Portfólio](https://www.rnmenzs.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/renanlememenezes) 🔗 [Portfólio](https://www.rnmenzs.com) 🔗 [GitHub](https://github.com/rnmenzs)
 
 ---
 
 ## 📌 Sobre
 
-Desenvolvedor fullstack com ~2 anos em produção (Node.js, TypeScript, React, PHP, MySQL/MongoDB), atuando em SaaS multi-tenant, integrações REST/OAuth e sistemas de billing.
+Desenvolvedor fullstack com formação em Análise e Desenvolvimento de Sistemas e ~2 anos de experiência prática em produção (React, Node.js, TypeScript, PHP). Na smartGPS desenvolvi a nova plataforma SaaS da empresa, incluindo módulo de geração e assinatura digital de contratos e sistema completo de billing multi-tenant.
 
-Em transição estruturada para Cybersecurity: em junho/2026 inicio a Pós em Offensive Cyber Security – Red Team Operations pela FIAP, complementando a base dev com pentest, web hacking e OSINT.
+Atualmente curso a Pós-graduação Lato Sensu em Offensive Cyber Security – Red Team Operations pela FIAP, expandindo a expertise para a interseção entre desenvolvimento e segurança ofensiva.
 
 ---
 
 ## 💼 Experiência
 
 ### Desenvolvedor Fullstack — smartGPS
-📅 Fev 2026 – Presente · 📍 Itu, SP
-- Nova plataforma SaaS multi-tenant (Node.js, TypeScript, React)
-- Módulo completo de billing + geração e assinatura digital de contratos
-- Integrações REST/OAuth 2.0 com gateways de pagamento e APIs externas
+📅 Fev 2026 – Ago 2026 · 📍 100% Remoto
+- Nova plataforma SaaS multi-tenant (sucessora do sistema anterior)
+- Módulo de geração e assinatura digital de contratos
+- Sistema completo de billing com webhooks idempotentes, retry com backoff exponencial e reconciliação
+- Painel de suporte com geração de tickets por IA (Next.js 16 / React 19 / TypeScript / Postgres / SSE), integrado ao Chatwoot via LLM
+- Segurança em produção: autenticação por sessão HMAC, isolamento de segredos e tratamento de PII
+- DevSecOps: containerização multi-stage, Docker Swarm com rolling update e armazenamento em GCS
 
-### Desenvolvedor Fullstack — Baron Tech
+### Desenvolvedor Full Stack — Baron Tech
 📅 Set 2024 – Abr 2025
-- ERP corporativo em PHP/MySQL com integrações REST
-- Atendimento técnico e implantação de módulos B2B
+- Módulos de ERP corporativo em PHP, correção de bugs e implantação de sistemas
+- 3+ integrações REST em produção: gateway financeiro com idempotência, SMTP transacional com OAuth 2.0 e cloud storage com retry/backoff
 
 ### Desenvolvedor de Software — smartGPS
-📅 Ago 2023 – Ago 2024
-- Sistema de rastreamento veicular (Node.js + APIs de localização em tempo real)
+📅 Ago 2023 – Ago 2024 · 📍 Itu, SP
+- Sistema de rastreamento veicular em tempo real (Node.js/React), integração com APIs de localização
 
 ### Instrutor de Programação — SuperGeeks
-📅 Ago 2022 – Jul 2023
-- Aulas, material didático e gestão de turmas (mentoria + code review)
-
----
-
-## 📜 Certificações
-
-**Cybersecurity** — Fundamentos de Pentest · Fundamentos de Cibersegurança · Princípios da Cibersegurança · Bootcamp Santander Cibersegurança (DIO)
-
-**Desenvolvimento** — REST com Node.js (Express + MySQL) (Alura) · HTTP por baixo dos panos (Alura) · Autenticação com JWT em Node/TS (DIO)
+📅 Ago 2022 – Jul 2023 · 📍 Itu, SP
+- Elaboração de material didático, aulas e gestão de turmas
 
 ---
 
 ## 🎓 Formação
 
-- **Pós-graduação Lato Sensu em Offensive Cyber Security – Red Team Operations** — FIAP (Jun 2026 – Abr 2027)
+- **Pós-graduação Lato Sensu em Offensive Cyber Security – Red Team Operations** — FIAP Postech (Jun 2026 – Abr 2027, previsto)
 - **Análise e Desenvolvimento de Sistemas (CST)** — Fatec Dom Amaury Castanho (2021 – 2024)
+
+---
+
+## 📜 Certificações
+
+**Cybersecurity** — Fundamentos de Pentest · Fundamentos de Cibersegurança · Princípios da Cibersegurança · Introdução à Cibersegurança (Santander/DIO)
+
+**Desenvolvimento** — REST com Node.js (Express + MySQL) · HTTP por baixo dos panos · Autenticação com JWT (Node/TS)
 
 ---
 
 ## 🛠️ Stack
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-**Cybersecurity em formação:** Pentest · OSINT · Redes · Linux · Burp Suite · MITRE ATT&CK · OWASP Top 10
+**Cybersecurity em formação:** Pentest · Red Team Ops · OSINT · Web Hacking · Malware Analysis · Purple Team

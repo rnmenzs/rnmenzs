@@ -3,7 +3,7 @@
 
 📍 Itu, SP · 📧 renanlmenezes2003@gmail.com · 📞 (11) 94711-5174
 
-🔗 [LinkedIn](https://www.linkedin.com/in/renanlememenezes)
+🔗 [LinkedIn](https://www.linkedin.com/in/renanlememenezes) 🔗 [Portfólio](https://www.rnmenzs.com)
 
 ---
 

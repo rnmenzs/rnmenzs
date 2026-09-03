@@ -1,6 +1,6 @@
 # Renan Leme Menezes
 
-🔗 [LinkedIn](https://www.linkedin.com/in/renanlememenezes) 🔗 [Portfólio](https://www.rnmenzs.com) 🔗 [GitHub](https://github.com/rnmenzs)
+🔗 [LinkedIn](https://www.linkedin.com/in/renanlememenezes) 🔗 [Portfólio](https://www.rnmenzs.com.br) 🔗 [GitHub](https://github.com/rnmenzs)
 
 ---
 
